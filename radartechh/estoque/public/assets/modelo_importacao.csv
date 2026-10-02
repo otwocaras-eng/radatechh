@@ -1,0 +1,4 @@
+nome;codigo_barras;categoria;marca;preco_custo;preco_venda;estoque_atual;estoque_minimo
+Caneta Esferográfica Azul;7891234560001;Canetas e Marcadores;BIC;0.45;1.50;50;10
+Caderno Universitário 100 Folhas;7891234560002;Cadernos e Blocos;Foroni;4.30;11.90;30;10
+Papel Sulfite A4 500 Folhas;7891234560003;Papéis e Folhas;Report;12.00;28.90;15;5
